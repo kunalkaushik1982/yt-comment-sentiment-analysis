@@ -1,4 +1,4 @@
 [core]
-    remote = ytbremote
-['remote "ytbremote"']
-    url = C:\Users\kunkaush1\AppData\Local\Temp
+    remote = myremote
+['remote "myremote"']
+    url = s3://yutube-dvc
