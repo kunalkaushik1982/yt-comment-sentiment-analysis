@@ -3,7 +3,7 @@ import requests
 import json
 
 #BASE_URL = "http://localhost:5000"  # Replace with your deployed URL if needed
-BASE_URL = "http://10.102.180.0:5000"
+BASE_URL = "http://192.168.29.68:5000"
 
 def test_predict_endpoint():
     data = {
